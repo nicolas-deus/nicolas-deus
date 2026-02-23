@@ -1,4 +1,4 @@
-# ¡Hola! Soy Nicolás Fernández 👋
+# Nicolás Fernández 
 
 Soy un **Desarrollador Full Stack** radicado en Buenos Aires, Argentina. Me apasiona construir aplicaciones web completas, desde el diseño de la interfaz hasta la lógica del servidor y las bases de datos.
 
@@ -13,9 +13,8 @@ Soy un **Desarrollador Full Stack** radicado en Buenos Aires, Argentina. Me apas
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🚀 ¿En qué estoy trabajando?
-- 💼 Actualmente liderando Lumina-Lbs y desarrollando proyectos Full Stack.
-- 🌱 Aprendiendo y mejorando en [Añade una tecnología que estés estudiando, ej. Docker, Next.js].
+- 💼 Actualmente cofundador de Lumina-Lbs y desarrollando proyectos Full Stack.
+- 🌱 Aprendiendo y mejorando en Docker, Next.js.
 
 ### 📫 ¿Cómo contactarme?
-- [LinkedIn](TU_LINK_DE_LINKEDIN)
-- Correo: tu-correo@email.com
+- Correo: fernandezvelandia@email.com
