@@ -1,6 +1,6 @@
 # Nicolás Fernández 
 
-Soy un **Desarrollador Full Stack** radicado en Buenos Aires, Argentina. Me apasiona construir aplicaciones web completas, desde el diseño de la interfaz hasta la lógica del servidor y las bases de datos.
+**Desarrollador Full Stack** radicado en Buenos Aires, Argentina. Construyo aplicaciones web completas, desde el diseño de la interfaz hasta la lógica del servidor y las bases de datos.
 
 ### 🛠️ Mi Stack Tecnológico (Skills)
 **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
